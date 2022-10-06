@@ -163,5 +163,9 @@ p{
     #pricing{
     padding: 30px;
     text-align: center;
-}
+    }
+    
+    .big-heading{
+        font-size:2rem;
+    }
 }
